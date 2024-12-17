@@ -110,7 +110,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                     </li>
                                 </ul>
                             </div>
-                            <script>
+                            <!-- <script>
                                 $(document).ready(function() {
                                     $('.home-filter__btn').click(function(e) {
                                         e.preventDefault();
@@ -139,7 +139,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                         }
                                     });
                                 });
-                            </script>
+                            </script> -->
                             <script>
                                 $(document).ready(function() {
                                     $('.select-input__link').click(function(e) {
